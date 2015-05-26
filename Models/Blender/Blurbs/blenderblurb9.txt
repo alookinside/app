@@ -1,0 +1,1 @@
+The motor spins by converting electrical energy  into mechanical energy. Electricity interacts with magnets embedded in the motor, causing a spinning motion in the white rod, which connects to the blades.The speed of the motor itself is variable, but the power (wattage) is constant.

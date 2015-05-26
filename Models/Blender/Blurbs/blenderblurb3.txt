@@ -1,0 +1,3 @@
+This is the vessel. In the vessel, faster moving fluids have lower pressure, according to Bernoulli’s Principle. As a result, the food at the top is higher in pressure and at the bottom, lower. So, the food at the top moves to the bottom, where the blades are in action, and the food at the bottom replaces the vacuum at the top. Thus, a vortex movement is created.
+
+
