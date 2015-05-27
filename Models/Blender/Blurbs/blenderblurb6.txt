@@ -1,3 +1,4 @@
-The different buttons on the blender allow for adjustment in the speed of the spinning blades; they connect to the circuit board via cylindrical rods.
+The different buttons on the blender allow for adjustment in the speed of the
+ spinning blades; they connect to the circuit board via cylindrical rods.
 
 

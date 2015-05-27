@@ -1,1 +1,3 @@
-The blades point down and up simultaneously, because they can hit food stuck in the bottom of the vessel, which is isolated from the vortex of fluid, and this also increases the range of motion for the blades.
+The blades point down and up simultaneously, because they can hit food stuck
+ in the bottom of the vessel, which is isolated from the vortex of fluid, and this
+ also increases the range of motion for the blades.
