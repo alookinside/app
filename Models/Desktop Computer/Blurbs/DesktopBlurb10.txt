@@ -1,0 +1,1 @@
+The read only memory (ROM) stores non-volatile information, such as instructions for how to start up the computer. This memory remains even after the computer is shut down.

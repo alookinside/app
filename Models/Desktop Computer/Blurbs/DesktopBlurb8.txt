@@ -1,0 +1,1 @@
+The graphics card renders the 2D and 3D images you see on the monitor. The CPU sends image information to the graphics card, which processes how that image will be displayed on the screen based on the monitor’s pixels. The graphics card then sends that information to the monitor to display images on the screen.
