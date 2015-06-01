@@ -1,1 +1,6 @@
-The CPU (central processing unit) of the computer carries the instructions of a computer program by performing basic operations of the computer program. It contains the Arithmetic Logic Unit, which is responsible for executing functions. The CPU also contains the Memory Data Register, which keeps track of both the data and the address of the data. Communication is facilitated by data buses.
+The CPU (central processing unit) of the computer carries the instructions of 
+a computer program by performing basic operations of the computer program. It 
+contains the Arithmetic Logic Unit, which is responsible for executing 
+functions. The CPU also contains the Memory Data Register, which keeps 
+track of both the data and the address of the data. Communication is 
+facilitated by data buses.

@@ -1,1 +1,2 @@
-The thermal compound is a conductive adhesive used to connect heat sinks and sources. It is placed on the CPU for more efficient cooling.
+The thermal compound is a conductive adhesive used to connect heat sinks 
+and sources. It is placed on the CPU for more efficient cooling.

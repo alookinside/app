@@ -1,1 +1,2 @@
-The power supply provides the voltage to power the electronic circuitry that makes up the desktop computer.
+The power supply provides the voltage to power the electronic circuitry that 
+makes up the desktop computer.

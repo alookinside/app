@@ -1,1 +1,2 @@
-The heat sink (fan) cools off the CPU by blowing air on it, which saves vital data and prevents a system slowdown (caused by overheating). 
+The heat sink (fan) cools off the CPU by blowing air on it, which saves vital
+data and prevents a system slowdown (caused by overheating). 

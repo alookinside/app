@@ -1,1 +1,2 @@
-The motherboard is a printed circuit board that houses the CPU, memory, hard drive, video card, etc.
+The motherboard is a printed circuit board that houses the CPU, memory, 
+hard drive, video card, etc.
