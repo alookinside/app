@@ -1,0 +1,9 @@
+The ball of the pen, held by a socket, acts as an 
+intermediary between the surface being written on 
+and the ink tube. As the pen moves across a surface, 
+the ball rolls and the force of gravity pushes the 
+ink onto the paper through the ball. While this 
+mechanism allows the ink to flow when there’s rolling, 
+it also seals the ink tube, preventing stored ink from 
+drying. This process is similar to how roll-on deodorant 
+works, only on a smaller scale.
