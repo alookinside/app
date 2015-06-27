@@ -1,5 +1,1 @@
-This cartridge holds the ink. It is sealed tight to 
-ensure that the air does not dry the ink because modern 
-ink dries quickly once put on paper (to limit smearing). 
-Gravity pulls the ink to the dispenser so that there is 
-always a continuous supply of ink.
+This cartridge holds the ink. It is sealed tight to ensure that the air does not dry the ink because modern ink dries quickly once put on paper (to limit smearing). Gravity pulls the ink to the dispenser so that there is always a continuous supply of ink.
