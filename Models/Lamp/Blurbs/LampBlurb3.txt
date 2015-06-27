@@ -1,0 +1,3 @@
+This is the upper part of the lamp. 
+It houses the light bulb, the main 
+source of light for the lamp. 

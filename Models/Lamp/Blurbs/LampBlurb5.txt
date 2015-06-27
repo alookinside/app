@@ -1,0 +1,11 @@
+The base of the lightbulb has 4 major 
+responsibilities. It has to support the 
+light bulb within the electrical source 
+unit, protect the insulation that prevents 
+the electricity from going into the lamp, 
+transfer the electricity from the main 
+electrical source unit to the inner area 
+of the bulb, and secure the globe. In 
+addition the base of the light bulb acts 
+as a screw, allowing it to be connected 
+to the lamp or another light fixture. 
