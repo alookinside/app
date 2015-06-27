@@ -1,5 +1,3 @@
-The green circuit board directs the flow of electricity as a result of buttons
- being pressed. It electrically connects the button pressed to the corresponding
- change in the internal motor. 
+The green circuit board directs the flow of electricity as a result of buttons being pressed. It electrically connects the button pressed to the corresponding change in the internal motor. 
 
 

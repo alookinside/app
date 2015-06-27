@@ -1,2 +1,1 @@
-A random access memory integrated circuit (RAM) stores primary memory that 
-is cleared after shutdown. 
+A random access memory integrated circuit (RAM) stores primary memory that is cleared after shutdown. 

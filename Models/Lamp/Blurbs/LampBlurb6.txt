@@ -1,11 +1,1 @@
-The outer glass shell of the light 
-bulb is called the globe, which ensures 
-maximum light efficiency. The glass bulb 
-houses the filament, the metal wires, and 
-an inert gas, such as argon. The glass is 
-sealed in order to preserve the light in 
-the glass bulb. Argon is used inside the 
-glass bulb because oxygen would burn out 
-the light. In an incandescent light bulb, 
-only about 10% of the electrical energy is 
-emitted as light, the rest is heat.
+The outer glass shell of the light bulb is called the globe, which ensures maximum light efficiency. The glass bulb houses the filament, the metal wires, and an inert gas, such as argon. The glass is sealed in order to preserve the light in the glass bulb. Argon is used inside the glass bulb because oxygen would burn out the light. In an incandescent light bulb, only about 10% of the electrical energy is emitted as light, the rest is heat.

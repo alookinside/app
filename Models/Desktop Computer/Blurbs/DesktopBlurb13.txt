@@ -1,4 +1,1 @@
-The CD-ROM allows the user to insert a compact disk (CD) or other disks. 
-This is a source of external memory for the computer. External memory
-can potentially be limitless in space but is significantly slower than 
-RAM or ROM memory or hard drive memory.
+The CD-ROM allows the user to insert a compact disk (CD) or other disks. This is a source of external memory for the computer. External memory can potentially be limitless in space but is significantly slower than RAM or ROM memory or hard drive memory.
