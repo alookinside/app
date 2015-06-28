@@ -1,0 +1,1 @@
+The crank on the back of the pencil sharpener rotates the blade around the pencil tip. In electronic pencil sharpeners, this is done with a motor, but in this mechanical pencil sharpener, you act as the motor powering the sharpener.

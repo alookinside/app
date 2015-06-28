@@ -1,0 +1,1 @@
+This is the base of the pencil sharpener. The lever on the base allows you to insert and remove the pencil. Releasing the lever holds the pencil in place.
